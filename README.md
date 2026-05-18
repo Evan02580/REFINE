@@ -97,3 +97,21 @@ The model evaluates on the following metrics during validation:
 - Mean Reciprocal Rank (MRR)
 - Normalized Discounted Cumulative Gain (NDCG@5, @10, @20)
 
+
+## Citation
+
+If you find our work useful, please consider cite our paper with following:
+
+```
+@InProceedings{REFINE,
+  author="Pan, Yihong and Wang, Qiqi and Jiang, Ziyi and Shi, Weizhe and Lin, Zhipeng and Li, Huijia and Zhao, Kaiqi",
+  editor="Jung, Hyungsoo and Wang, Tianzheng and Toyoda, Masashi and Kwon, Hyuk-Yoon and Lee, Jae-woong",
+  title="REFINE: A Resource-Efficient LLM-Based Approach for Next Top-K POI Recommendation",
+  booktitle="Database Systems for Advanced Applications",
+  year="2026",
+  publisher="Springer Nature Singapore",
+  address="Singapore",
+  pages="286--302",
+  isbn="978-981-92-0372-7"
+}
+```
